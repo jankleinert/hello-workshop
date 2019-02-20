@@ -12,7 +12,7 @@
     "containers": [
       {
         "name": "hello-k8s",
-        "image": "jkleinert/nodejsint-workshop",
+        "image": "jkleinert/devweek-workshop",
         "ports": [
           {
             "containerPort": 8080
